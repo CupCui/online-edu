@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 13 14:12:27 CST 2020
+commons-codec-1.13.jar>alimaven=
+commons-codec-1.13-sources.jar>alimaven=
+commons-codec-1.13-javadoc.jar>alimaven=
+commons-codec-1.13.pom>central=
+commons-codec-1.13.jar>central=
+commons-codec-1.13.pom>alimaven=

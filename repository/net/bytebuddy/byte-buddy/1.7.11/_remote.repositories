@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 16:03:53 CST 2020
+byte-buddy-1.7.11-sources.jar>alimaven=
+byte-buddy-1.7.11-javadoc.jar>alimaven=
+byte-buddy-1.7.11.jar>central=
+byte-buddy-1.7.11.pom>central=
+byte-buddy-1.7.11.pom>alimaven=
+byte-buddy-1.7.11.jar>alimaven=

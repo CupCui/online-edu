@@ -1,0 +1,21 @@
+aliyun:
+  video:
+    accessKeyId: LTAI4FxfCwTgvJx5KVWC3fFt
+    accessKeySecret: XQ6jWN2wzood9GSAUXN7I0JQY2vHIH
+server:
+  port: 8002
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  application:
+    name: EDU-VIDEO
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8888/eureka/

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 12:44:28 CST 2020
+commons-collections-3.2.2.pom>central=
+commons-collections-3.2.2.jar>central=
+commons-collections-3.2.2.jar>alimaven=
+commons-collections-3.2.2.pom>alimaven=
+commons-collections-3.2.2-javadoc.jar>alimaven=
+commons-collections-3.2.2-sources.jar>alimaven=

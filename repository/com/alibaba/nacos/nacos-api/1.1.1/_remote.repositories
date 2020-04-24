@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 14:01:06 CST 2020
+nacos-api-1.1.1.jar>central=
+nacos-api-1.1.1.jar>alimaven=
+nacos-api-1.1.1.pom>central=
+nacos-api-1.1.1-sources.jar>alimaven=
+nacos-api-1.1.1-javadoc.jar>alimaven=
+nacos-api-1.1.1.pom>alimaven=

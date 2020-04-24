@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 15:31:38 CST 2020
+logback-core-1.2.3-javadoc.jar>central=
+logback-core-1.2.3.pom>alimaven=
+logback-core-1.2.3-javadoc.jar>alimaven=
+logback-core-1.2.3-sources.jar>alimaven=
+logback-core-1.2.3.jar>alimaven=
+logback-core-1.2.3.pom>central=
+logback-core-1.2.3.jar>central=
+logback-core-1.2.3-sources.jar>central=

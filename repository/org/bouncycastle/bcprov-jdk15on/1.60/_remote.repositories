@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 12:45:25 CST 2020
+bcprov-jdk15on-1.60.jar>central=
+bcprov-jdk15on-1.60-sources.jar>alimaven=
+bcprov-jdk15on-1.60.pom>alimaven=
+bcprov-jdk15on-1.60-javadoc.jar>alimaven=
+bcprov-jdk15on-1.60.jar>alimaven=
+bcprov-jdk15on-1.60.pom>central=

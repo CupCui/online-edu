@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 18 14:55:29 CST 2020
+org.jacoco.agent-0.8.3-runtime.jar>alimaven=
+org.jacoco.agent-0.8.3.pom>alimaven=
+org.jacoco.agent-0.8.3-runtime.jar>central=
+org.jacoco.agent-0.8.3-javadoc.jar>alimaven=
+org.jacoco.agent-0.8.3-sources.jar>alimaven=
+org.jacoco.agent-0.8.3.pom>central=
