@@ -11,9 +11,9 @@ import com.aliyuncs.vod.model.v20170321.CreateUploadVideoResponse;
  */
 public class GetVideoUrlAndAuth {
     //账号AK信息请填写(必选)
-    private static final String accessKeyId = "LTAI4FxfCwTgvJx5KVWC3fFt";
+    private static final String accessKeyId = "***accessKeyId";
     //账号AK信息请填写(必选)
-    private static final String accessKeySecret = "XQ6jWN2wzood9GSAUXN7I0JQY2vHIH";
+    private static final String accessKeySecret = "***accessKeySecret";
     /**
      * 获取视频上传地址和凭证
      * @param client 发送请求客户端
